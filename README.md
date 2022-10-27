@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MECHKOURI said</h1>
 <h3 align="center">A passionate frontend developer Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mechkouri&label=Profile%20views&color=0e75b6&style=flat" alt="mechkouri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechkouri" alt="mechkouri" /></a> </p>
 
 - 🌱 I’m currently learning **ANGULAR 13**
 
