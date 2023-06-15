@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MECHKOURI said</h1>
-<h3 align="center">A passionate frontend developer Angular</h3>
+<h3 align="center">A passionate frontend developer React</h3>
 
 
 
-- 🌱 I’m currently learning **ANGULAR 13**
+- 🌱 I’m currently learning **React 18.2.0**
 
-- 💬 Ask me about **ANGULAR**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **saidmechkouri@gmail.com**
 
