@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saidmechkouri@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/said-mechkouri](www.linkedin.com/in/said-mechkouri)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/said mechkouri" target="blank"> [www.linkedin.com/in/said-mechkouri](www.linkedin.com/in/said-mechkouri) </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
