@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm MECHKOURI said</h1>
-<h3 align="center">A passionate frontend developer React</h3>
-
-
-
-- 🌱 I’m currently learning **React 18.2.0**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **saidmechkouri@gmail.com**
-
-- 📄 Know about my experiences <a href="https://mechkouri.netlify.app/" target="blank"> [https://mechkouri.netlify.app/](https://mechkouri.netlify.app/) </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/said-mechkouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="said mechkouri" height="30" width="40" /></a>
+<h1 align="center">Said Mechkouri</h1>
+<p align="center">
+  <b>Full-Stack Developer · WordPress · Technical SEO · Automation</b><br>
+  Morocco · Available immediately · Remote or on-site
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://mechkouri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-mechkouri.netlify.app-1F4E79?style=flat-square" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/said-mechkouri"><img src="https://img.shields.io/badge/LinkedIn-said--mechkouri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:saidmechkouri@gmail.com"><img src="https://img.shields.io/badge/Email-saidmechkouri@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechkouri&show_icons=true&locale=en&layout=compact" alt="mechkouri" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechkouri&show_icons=true&locale=en" alt="mechkouri" /></p>
+Since 2021 I ship WordPress sites, web apps and automations for agencies and remote clients: fast, well-ranked and easy to maintain.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechkouri&" alt="mechkouri" /></p>
+- **WordPress & WooCommerce**: custom themes, Elementor, custom plugins, multilingual sites
+- **Technical SEO**: Core Web Vitals, Search Console, structured content, Google Ads
+- **Automation**: n8n and Make.com pipelines that write, optimise and publish SEO articles and social posts
+- **AI-assisted development**: Claude Code, Cursor, MCP servers. Every change is reviewed and tested before production.
+- **Apps**: React, Next.js, Node.js, FastAPI
+
+## Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **SWSM 2026** | International scientific conference site (programme, committees, registration, paper submission), connected to AI agents through an MCP server | WordPress, MCP |
+| **normes-haccp.com** | HACCP platform for food service: WordPress + SEO + partial workflow automation, React front-end for the HACCP app | WordPress, React, n8n |
+| **Automated SEO content pipeline** | Generates, optimises and publishes articles, then shares them on social media with no manual step | n8n, Make.com, APIs, AI |
+| **varimart.ma** | Home & lifestyle marketplace with promo packs and blog | WooCommerce |
+| **Mochis Mochis** | Stock-management web app for a sushi stand | Next.js, React |
+| **[portfolio-2026](https://github.com/Mechkouri/portfolio-2026)** | My portfolio | see repo |
+
+More on the [portfolio](https://mechkouri.netlify.app).
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,react,nextjs,ts,js,tailwind,nodejs,fastapi,postgres,mysql,mongodb,git,githubactions,vercel,cloudflare,figma&perline=8" alt="Tech stack">
+</p>
+
+Automation: n8n · Make.com · webhooks · REST APIs
+
+## Let's talk
+
+Open to web developer roles (WordPress, full-stack) and freelance projects. Email me or message me on LinkedIn.
