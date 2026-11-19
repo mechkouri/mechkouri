@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Said Mechkouri, Full-Stack Developer, WordPress, Technical SEO, Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1e33"/>
+      <stop offset="0.55" stop-color="#1F4E79"/>
+      <stop offset="1" stop-color="#0f766e"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="24s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="900" height="240" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .name { font-size: 54px; font-weight: 700; fill: #ffffff; letter-spacing: 1px; animation: rise 1.2s ease-out both; }
+    .sub { font-size: 24px; font-weight: 500; fill: #bae6fd; opacity: 0; }
+    .s1 { animation: cycle 9s infinite 0s; }
+    .s2 { animation: cycle 9s infinite 3s; }
+    .s3 { animation: cycle 9s infinite 6s; }
+    .tag { font-size: 15px; fill: #d1fae5; animation: fade 2s ease-out 1s both; letter-spacing: 1.5px; }
+    .bar { transform-origin: 60px 150px; animation: grow 1.4s ease-out 0.4s both; }
+    .f1 { animation: float 7s ease-in-out infinite; }
+    .f2 { animation: float 9s ease-in-out infinite reverse; }
+    .f3 { animation: float 11s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes cycle { 0% { opacity: 0; transform: translateY(10px); } 6%, 30% { opacity: 1; transform: translateY(0); } 36%, 100% { opacity: 0; transform: translateY(-10px); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-16px); } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="900" height="240" fill="url(#bg)"/>
+    <g opacity="0.16" fill="#ffffff">
+      <circle class="f1" cx="760" cy="60" r="70"/>
+      <circle class="f2" cx="840" cy="190" r="42"/>
+      <circle class="f3" cx="640" cy="200" r="28"/>
+    </g>
+    <g opacity="0.07" stroke="#ffffff" stroke-width="1">
+      <path d="M0 40H900M0 80H900M0 120H900M0 160H900M0 200H900"/>
+      <path d="M100 0V240M200 0V240M300 0V240M400 0V240M500 0V240M600 0V240M700 0V240M800 0V240"/>
+    </g>
+    <text class="tag" x="60" y="62">&lt;/&gt; DEVELOPER · MOROCCO</text>
+    <text class="name" x="60" y="128">Said Mechkouri</text>
+    <rect class="bar" x="60" y="145" width="150" height="4" rx="2" fill="url(#line)"/>
+    <text class="sub s1" x="60" y="195">Full-Stack Developer</text>
+    <text class="sub s2" x="60" y="195">WordPress · WooCommerce · React</text>
+    <text class="sub s3" x="60" y="195">Technical SEO · n8n Automation</text>
+  </g>
+</svg>
