@@ -1,13 +1,15 @@
-<h1 align="center">Said Mechkouri</h1>
 <p align="center">
-  <b>Full-Stack Developer · WordPress · Technical SEO · Automation</b><br>
-  Morocco · Available immediately · Remote or on-site
+  <img src="https://raw.githubusercontent.com/Mechkouri/Mechkouri/main/assets/header.svg" alt="Said Mechkouri, Full-Stack Developer, WordPress, Technical SEO, Automation" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://mechkouri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-mechkouri.netlify.app-1F4E79?style=flat-square" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/said-mechkouri"><img src="https://img.shields.io/badge/LinkedIn-said--mechkouri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saidmechkouri@gmail.com"><img src="https://img.shields.io/badge/Email-saidmechkouri@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <b>Morocco · Available immediately · Remote or on-site</b>
+</p>
+
+<p align="center">
+  <a href="https://mechkouri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-mechkouri.netlify.app-1F4E79?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/said-mechkouri"><img src="https://img.shields.io/badge/LinkedIn-said--mechkouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:saidmechkouri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## About
